@@ -3,7 +3,7 @@
 **Operating system** is the most fundamental system program.
 - It controls all the computer's resources and provide a base upon which the application programs can be written.
 
-![image](https://github.com/C0DER11101/OS_SelfStudy/blob/OS_SelfStudy/LayersOfOS.png)
+![image](https://github.com/C0DER11101/OS_SelfStudy/blob/OS_SelfStudy/LayersOfOS.png?raw=true)
 
 The hardware contains 3 levels **physical devices**, **microarchitecture**, and **machine language**.
 
